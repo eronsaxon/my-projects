@@ -2,4 +2,4 @@
 
 Here is some info. about me!
 
-[Back to the home page] <a href="./(index.md)"> 
+<a href="index.md" title="Back to the home page">About Me</a>
