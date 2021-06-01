@@ -2,4 +2,4 @@
 
 Here is some info. about me!
 
-[Back to the home page] <a href>  (index.md) </a>
+[Back to the home page] <a href="./(index.md)"> 
